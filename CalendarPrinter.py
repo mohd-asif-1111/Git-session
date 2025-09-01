@@ -1,4 +1,4 @@
-#Referebce Date is used to calculate Day on specific date
+#Reference Date is used to calculate Day on specific date
 #Reference Date has Monday on starting of the year
 referenceDate = [1,1,1979]
 DayName = {1:"Mon",2:"Tue",3:"Wed",4:"Thu",5:"Fri",6:"Sat",7:"Sun"}
